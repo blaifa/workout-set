@@ -1,0 +1,8 @@
+{
+  "name": "Workout Set",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "3d09253e"
+}
